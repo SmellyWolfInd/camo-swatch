@@ -4,6 +4,8 @@ Drop a landscape photo and get a seamless, tileable camouflage pattern. Color ex
 
 Open the site, or open `index.html` from this folder.
 
-- Styles: organic, digital, contour, cellular, tiger, fleck
-- Premades: Woodland, Desert, MultiCam-style, MARPAT, Tiger stripe, Flecktarn, Urban, Snow, hunting foliage, blaze
-- Export: SVG, 2048 PNG tile, field card, hex / CSS / JSON
+- Military: organic, digital, contour, cellular, tiger, fleck
+- Hunting: broadleaf, branch, marsh, open grass
+- Snake: diamondback, python, banded
+- Stamp: scatter a PNG, or start from the leaf or duck
+- Export: SVG, per-color stencil SVGs, 2048 PNG tile, field card, hex / CSS / JSON
