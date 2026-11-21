@@ -4,7 +4,7 @@ Drop a landscape photo and get a seamless, tileable camouflage pattern. Color ex
 
 Open the site, or open `index.html` from this folder.
 
-- Military: organic, digital, contour, cellular, tiger, fleck
+- Military: organic, digital, contour, cellular, tiger (Rhodesian brushstroke), fleck
 - Hunting: broadleaf, branch, marsh, open grass
 - Snake: diamondback, python, banded
 - Stamp: scatter a PNG, or start from the leaf or duck
