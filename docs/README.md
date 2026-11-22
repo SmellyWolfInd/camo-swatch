@@ -5,6 +5,7 @@ Drop a landscape photo and get a seamless, tileable camouflage pattern. Color ex
 Open the site, or open `index.html` from this folder.
 
 - Military: organic, digital, contour, cellular, tiger stripe, brushstroke, fleck
-- Hunting: broadleaf, branch, marsh, open grass, and bark, each with type and density controls
+- Hunting: broadleaf, branch, marsh, open grass, bark, and pine forest, each with type and density controls
+- Samples include a pine forest, plus mossy forest, desert, urban, and snow
 - Sample a palette color by clicking the photo
 - Export: SVG, per-color stencil SVGs, 2048 PNG tile, field card, hex / CSS / JSON
