@@ -4,7 +4,7 @@ Drop a landscape photo and get a seamless, tileable camouflage pattern. Color ex
 
 Open the site, or open `index.html` from this folder.
 
-- Military: organic, digital, contour, cellular, tiger (Rhodesian brushstroke), fleck
+- Military: organic, digital, contour, cellular, tiger stripe, brushstroke, fleck
 - Hunting: broadleaf, branch, marsh, open grass
-- Snake: diamondback, python, banded
+- Sample a palette color by clicking the photo
 - Export: SVG, per-color stencil SVGs, 2048 PNG tile, field card, hex / CSS / JSON
